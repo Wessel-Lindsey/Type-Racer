@@ -41,18 +41,13 @@ Explain how to run the automated tests for this system
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-* [ctype](https://cplusplus.com/reference/cctype/) - C standard 
-* [ncurses](https://invisible-island.net/ncurses/announce.html) - Formatted Screen Output
-* [studio]() -
-* [stdlib]() - Standard C Library
-* [string]() -  
-* [time]() - 
-* [sys/time]() -
+* [CTYPE](https://cplusplus.com/reference/cctype/) - C standard 
+* [NCURSES](https://invisible-island.net/ncurses/announce.html) - Formatted Screen Output
+* [STUDIO]() -
+* [STDLIB]() - Standard C Library
+* [STRING]() -  
+* [TIME]() - 
+* [SYS/TIME]() -
 
 ## Authors
 
